@@ -33,4 +33,4 @@ Spacial coverage: São Paulo, SP - Brazil
 
 ## Others
 
-This dataser is also available in: [https://www.kaggle.com/amandalk/sp-beaches-water-quality]().
+This dataset is also available in: [https://www.kaggle.com/amandalk/sp-beaches-water-quality]().
