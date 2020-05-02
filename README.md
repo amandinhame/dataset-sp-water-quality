@@ -26,9 +26,10 @@ Source: [https://cetesb.sp.gov.br/praias/programa-de-monitoramento/]().
 
 The data is published weekly by CETESB in a pdf report. To get the data I've used the python libraries `pandas` end `tabula` and did some manual fixes.
 
-## Date Coverage
+## Data Coverage
 
 Temporal coverage: 01-01-2012 to 15-03-2020
+
 Spacial coverage: São Paulo, SP - Brazil
 
 ## Others
