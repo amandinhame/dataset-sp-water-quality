@@ -32,6 +32,13 @@ Temporal coverage: 01-01-2012 to 15-03-2020
 
 Spacial coverage: São Paulo, SP - Brazil
 
+## Files
+
+|File|Description|
+|---|---|
+|[sao_paulo_water_quality.ipynb]()|Builds the dataset: download files and scrap data|
+|[sao_paulo_water_quality_charts.ipynb]()|Example of use of the data with the quality of all beaches over time|
+
 ## Others
 
 This dataset is also available in: [https://www.kaggle.com/amandalk/sp-beaches-water-quality]().
