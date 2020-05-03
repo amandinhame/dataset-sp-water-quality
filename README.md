@@ -36,8 +36,8 @@ Spacial coverage: São Paulo, SP - Brazil
 
 |File|Description|
 |---|---|
-|[sao_paulo_water_quality.ipynb]()|Builds the dataset: download files and scrap data|
-|[sao_paulo_water_quality_charts.ipynb]()|Example of use of the data with the quality of all beaches over time|
+|[sao_paulo_water_quality.ipynb](./sao_paulo_water_quality.ipynb)|Builds the dataset: download files and scrap data|
+|[sao_paulo_water_quality_charts.ipynb](./sao_paulo_water_quality_charts.ipynb)|Example of use of the data with the quality of all beaches over time|
 
 ## Others
 
